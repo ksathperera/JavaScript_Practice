@@ -5,7 +5,6 @@
   let name = 'Kavindi';
   console.log(name);
   
-  //constants
+  //constants In constants when we use let keyword we cannot change the value of a variable.Since it is a constant
   const interestRate = 0.3;
-  interestRate = 1;
   console.log(interestRate);

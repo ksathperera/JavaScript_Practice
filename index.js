@@ -21,6 +21,13 @@
   console.log(isApproved);
   console.log(firstName);
   console.log(selectedColor);
-  
+
+//objects
+let person = {
+    name3 : 'Nuwa',
+    age : 30
+};
+
+console.log(person);
 
 

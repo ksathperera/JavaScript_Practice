@@ -39,3 +39,10 @@ console.log(person.name3);
 person['name3'] = 'Tharaka';
 
 console.log(person.name3);
+
+//Arrays
+let selectedColors = ['red','blue'];
+selectedColors[2] = 1;
+console.log(selectedColors);
+console.log(selectedColors[1]);
+console.log(selectedColors.length);

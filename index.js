@@ -34,3 +34,8 @@ console.log(person);
 person.name3 = 'Kasun';
 
 console.log(person.name3);
+
+//change objects values using Bracket Notation
+person['name3'] = 'Tharaka';
+
+console.log(person.name3);

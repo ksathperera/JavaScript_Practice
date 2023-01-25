@@ -46,3 +46,17 @@ selectedColors[2] = 1;
 console.log(selectedColors);
 console.log(selectedColors[1]);
 console.log(selectedColors.length);
+
+//Functions
+function greet (name4,lastName) {
+    console.log('Yo' + name4  +'' + lastName);
+}
+//function call
+greet('Nuwa',' Kasthuri');
+greet('Kasun ');
+
+//calculating a value
+function square(number){
+    return number*number;
+}
+console.log(square(5));

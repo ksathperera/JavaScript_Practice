@@ -30,4 +30,7 @@ let person = {
 
 console.log(person);
 
+//change objects values using Dot Notation
+person.name3 = 'Kasun';
 
+console.log(person.name3);
